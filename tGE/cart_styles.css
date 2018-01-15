@@ -1,0 +1,22 @@
+/*styles for elements on the cart page*/
+#cart-box {
+	float:right;
+	border-radius: 3px;
+	color:whitesmoke;
+	font-weight:bold;
+	background-color:maroon;
+	padding:4px;
+	margin:2px;
+}
+
+#cart-tab td{
+	border: 1px solid white;
+}
+
+.i-btn	{text-align:center;}
+
+.btn-ctr	{min-width:150px;text-align:center}
+
+#plus_1	{float:right}
+
+#minus_1	{float:left}
